@@ -3,7 +3,7 @@
 ## :scroll: Проекты:
 
 ## <a target="_blank" href="https://github.com/DenZhICT/UIPartOfQAProject"><img src="images/screen/DNS.png" alt="DNS" width="35" height="30"/>Проект: UI Автоматизации тестирования DNS</a>
-## <a target="_blank" href="https://github.com/DenZhICT/APIPartOfQAProject"><img src="images/screen/Reqres.png" alt="DNS" width="55" height="35"/>Проект: API Автоматизации тестирования DNS</a>
+## <a target="_blank" href="https://github.com/DenZhICT/APIPartOfQAProject"><img src="images/screen/Reqres.png" alt="DNS" width="55" height="35"/>Проект: API Автоматизации тестирования Reqres</a>
 ## <a target="_blank" href="https://github.com/DenZhICT/APIwithUIPartOfQAProject"><img src="images/screen/DemoWebShop.png" alt="DNS" width="150" height="30"/>Проект: API+UI Автоматизации тестирования Demo Web Shop</a>
 ## <a target="_blank" href="https://github.com/DenZhICT/MobilePartOfQAProject"><img src="images/screen/Wikipedia.png" alt="DNS" width="50" height="50"/>Проект: Mobile Автоматизации тестирования Wikipedia</a>
 
